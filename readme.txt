@@ -4,5 +4,9 @@ Git has a mutable index called stage ok.
 number.
 Git tracks changes of files.
 tonight add ok.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch AND quick.
+>>>>>>> feature1
 
